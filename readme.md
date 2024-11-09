@@ -8,7 +8,7 @@ Simplified for Kubernetes deployment
 3. cd to project location from terminal
 4. run command - ```kubectl apply -f kube```
 5. verify application - http://localhost:8080
-
+6. delete resources - ```kubectl delete -f kube```
 ## References
 - https://docs.docker.com/guides/java/
 - https://github.com/spring-projects/spring-petclinic
